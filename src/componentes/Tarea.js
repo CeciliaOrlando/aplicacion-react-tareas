@@ -19,4 +19,4 @@ function Tarea({ id, texto, completada, completarTarea, eliminarTarea }) {
   );
 }
 
-export default Tarea;
+export default Tarea;.
